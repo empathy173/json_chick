@@ -1,0 +1,3 @@
+C:/cpp/10sprintJSON/cmake-build-debug/CMakeFiles/10sprintJSON.dir
+C:/cpp/10sprintJSON/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/cpp/10sprintJSON/cmake-build-debug/CMakeFiles/rebuild_cache.dir
